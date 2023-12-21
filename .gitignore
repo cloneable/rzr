@@ -1,0 +1,7 @@
+.*
+!.*ignore
+
+!/.github/
+!/.cargo/
+
+/target/
